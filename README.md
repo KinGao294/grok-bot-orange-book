@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="banner.png" alt="Grok Bot 橙皮书" width="480">
+</p>
+
+<p align="center">
 
 # Grok Bot 橙皮书：把一支 AI 团队装进口袋
 
