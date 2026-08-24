@@ -22,9 +22,39 @@ AI 第一次真正走进了我们的手机端，而且不是一个，是一群�
 
 这本书记录了它上线头两周的样子。写作过程中，我们翻阅了大量官方资料和一手报道，把社区里的各种玩法几乎试了个遍，自己也做了大量实测，并在十几个 Global 的 AI 社区里反复交流学习。产品还很新，迭代飞快，书中难免偶尔有幻觉或过时的地方，大家参考着看，动手前多核对一眼官方最新说明。
 
-## 📖 在线阅读
+## 🎬 官方发布片（1 分 46 秒）
 
-全书免费阅读：**[Grok-Bot-橙皮书.md](./Grok-Bot-橙皮书.md)**
+来源：[x.ai 发布页](https://x.ai/news/introducing-grok-bot) · [@bot 首发推文](https://x.com/bot/status/2087224798078517251)
+
+<p align="center">
+  <a href="grok-bot-launch.mp4"><img src="grok-bot-launch-preview.jpg" alt="Grok Bot 官方发布片" width="720"></a>
+</p>
+
+<p align="center">
+  <a href="grok-bot-launch.mp4">⬇ 下载 1080p MP4（约 27MB）</a>
+</p>
+
+## 🎬 官方扩权短片（12 秒）
+
+8 月 21 日官方宣布向更多用户开放限量免费试用。[原推文](https://x.com/bot/status/2090852881373311369)
+
+<p align="center">
+  <a href="grok-bot-available.mp4"><img src="grok-bot-available-preview.jpg" alt="Grok Bot 官方扩权短片" width="720"></a>
+</p>
+
+<p align="center">
+  <a href="grok-bot-available.mp4">⬇ 下载 MP4（约 580KB）</a>
+</p>
+
+## 下载
+
+| 格式 | 文件 | 大小 |
+|------|------|------|
+| PDF | [**Grok-Bot-Orange-Book-zh-v260823.pdf**](Grok-Bot-Orange-Book-zh-v260823.pdf) | 2.9MB |
+| HTML | [**Grok-Bot-Orange-Book-zh-v260823.html**](Grok-Bot-Orange-Book-zh-v260823.html) | 47KB |
+| Markdown | [**Grok-Bot-橙皮书.md**](./Grok-Bot-橙皮书.md) | 40KB |
+
+> 💡 PDF 建议下载后阅读，GitHub 在线预览可能无法完整渲染。
 
 ## 15 秒了解 Grok Bot
 
@@ -106,6 +136,7 @@ AI 第一次真正走进了我们的手机端，而且不是一个，是一群�
 **更新记录**
 
 - v260823（2026-08-23）：初版发布。含降价后完整档位表、「00 零成本开箱」章节、五人舰队招募卡与高频十问。
+- v260824（2026-08-24）：补官方发布片 / 扩权短片，并提供 PDF、HTML 下载。
 
 ## 相关链接
 
