@@ -22,30 +22,6 @@ AI 第一次真正走进了我们的手机端，而且不是一个，是一群�
 
 这本书记录了它上线头两周的样子。写作过程中，我们翻阅了大量官方资料和一手报道，把社区里的各种玩法几乎试了个遍，自己也做了大量实测，并在十几个 Global 的 AI 社区里反复交流学习。产品还很新，迭代飞快，书中难免偶尔有幻觉或过时的地方，大家参考着看，动手前多核对一眼官方最新说明。
 
-## 🎬 官方发布片（1 分 46 秒）
-
-来源：[x.ai 发布页](https://x.ai/news/introducing-grok-bot) · [@bot 首发推文](https://x.com/bot/status/2087224798078517251)
-
-<p align="center">
-  <a href="grok-bot-launch.mp4"><img src="grok-bot-launch-preview.jpg" alt="Grok Bot 官方发布片" width="720"></a>
-</p>
-
-<p align="center">
-  <a href="grok-bot-launch.mp4">⬇ 下载 1080p MP4（约 27MB）</a>
-</p>
-
-## 🎬 官方扩权短片（12 秒）
-
-8 月 21 日官方宣布向更多用户开放限量免费试用。[原推文](https://x.com/bot/status/2090852881373311369)
-
-<p align="center">
-  <a href="grok-bot-available.mp4"><img src="grok-bot-available-preview.jpg" alt="Grok Bot 官方扩权短片" width="720"></a>
-</p>
-
-<p align="center">
-  <a href="grok-bot-available.mp4">⬇ 下载 MP4（约 580KB）</a>
-</p>
-
 ## 下载
 
 | 格式 | 文件 | 大小 |
@@ -130,7 +106,31 @@ AI 第一次真正走进了我们的手机端，而且不是一个，是一群�
 
 ## 关于时效
 
-本书版本 **v260823**，记录的是 Grok Bot 公开后的第 12 天。这个品类的一切数字——价格、档位、门槛、功能——保质期以周计。书中关键数字均标注了口径与出处，如果你核出来的和书写的不一样，优先信你自己那一次。
+本书版本 **v260823**，记录的是 Grok Bot 公开后的第 12 天。这个品类的一切数字——价格、档位、门槛、功能——保质期以周计。书中关键数字均标注了口径与出处，如果你核出来的和书写的不一样，优先信你自己那一次。官方宣传片也是当时的产品快照，功能与口径以官网最新为准。
+
+## 🎬 官方发布片（1 分 46 秒）
+
+来源：[x.ai 发布页](https://x.ai/news/introducing-grok-bot) · [@bot 首发推文](https://x.com/bot/status/2087224798078517251)
+
+<p align="center">
+  <a href="grok-bot-launch.mp4"><img src="grok-bot-launch-preview.jpg" alt="Grok Bot 官方发布片" width="720"></a>
+</p>
+
+<p align="center">
+  <a href="grok-bot-launch.mp4">⬇ 下载 1080p MP4（约 27MB）</a>
+</p>
+
+## 🎬 官方扩权短片（12 秒）
+
+8 月 21 日官方宣布向更多用户开放限量免费试用。[原推文](https://x.com/bot/status/2090852881373311369)
+
+<p align="center">
+  <a href="grok-bot-available.mp4"><img src="grok-bot-available-preview.jpg" alt="Grok Bot 官方扩权短片" width="720"></a>
+</p>
+
+<p align="center">
+  <a href="grok-bot-available.mp4">⬇ 下载 MP4（约 580KB）</a>
+</p>
 
 **更新记录**
 
