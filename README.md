@@ -150,6 +150,7 @@ AI 第一次真正走进了我们的手机端，而且不是一个，是一群�
 - 官方公告：x.ai/news/introducing-grok-bot
 - 官方 X 账号：x.com/bot
 - 问题反馈与勘误：请提 [Issue](../../issues)
+- 英文对照（资格页仍冲突、隔离按用户不是按 Bot；不编美元价）：[共享电脑](https://grokbot.run/learn/computer/) · [定价快照](https://grokbot.run/pricing/)
 
 ## 协议
 
