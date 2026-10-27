@@ -150,6 +150,7 @@ AI 第一次真正走进了我们的手机端，而且不是一个，是一群�
 - 官方公告：x.ai/news/introducing-grok-bot
 - 官方 X 账号：x.com/bot
 - 问题反馈与勘误：请提 [Issue](../../issues)
+- 中文实测教程站（自荐）：[grokguide.si](https://grokguide.si) — Linux/rpm 安装、多 Bot 规则底座、Routine 对照等，附云电脑实跑结果
 
 ## 协议
 
